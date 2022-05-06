@@ -25,4 +25,4 @@ git add .
 git commit -m "Init"
 git remote add origin https://github.com/${GITHUB_USERNAME}/$repo_name.git
 echo "[Info] Pushing local repository master branch to Github origin/master branch..."
-git push -u origin master
+git push -u origin main
